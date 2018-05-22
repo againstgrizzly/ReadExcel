@@ -14,9 +14,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /*
-Cells that have formulas
-will return the formula as a string
-NOT the final value
+
  */
 public class Main {
     static XSSFRow row;
